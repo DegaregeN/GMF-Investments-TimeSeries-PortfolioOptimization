@@ -1,5 +1,6 @@
 
 Summary
+
 The analysis provides a comprehensive overview of three distinct financial assets TSLA, BND,
 and SPY each representing different risk and return profiles. Tesla (TSLA) shows high volatility
 with a 5% Value at Risk (VaR) of -5.13%, reflecting its potential for both significant returns and

@@ -1,0 +1,3 @@
+# After training your SARIMA model
+with open('models/trained_model_sarima.pkl', 'wb') as f:
+    pickle.dump(sarima_model, f)

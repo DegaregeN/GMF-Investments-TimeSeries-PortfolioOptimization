@@ -1,0 +1,2 @@
+# After training your LSTM model
+lstm_model.save('models/trained_model_lstm.h5')
